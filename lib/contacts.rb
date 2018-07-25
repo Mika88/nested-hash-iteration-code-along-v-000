@@ -18,4 +18,4 @@ def remove_strawberry(contacts)
   contacts.each do |person, contact_details_hash|
   end
 end
-remove_strawberry(contacts)
+
